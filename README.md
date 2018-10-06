@@ -1,1 +1,1 @@
-# Vehicle-Number-Plate-Recognition
+# License-Plate-Segmentation-using-OpenCV
